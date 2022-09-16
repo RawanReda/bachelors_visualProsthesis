@@ -1,4 +1,4 @@
-# Indoor Scenes Understanding for Visual Prosthesis
+# Indoor Scenes Understanding for Visual Prostheses
 
 ## Motivation
 Visual prostheses do not fully restore vision, and there remains a large difference

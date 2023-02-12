@@ -48,7 +48,7 @@ Generally, results for room identification and object recognition task for image
 In the future, it might be worthwhile to try different representations of phosphene simulations to investigate the extent of the effect they have on visual interpretation. Furthermore, indoor scenes can be very complex and there are a variety of different objects that can be present depending on the room type. It would be better to include more scenes and fine-tune machine learning models such that they would recognize all the objects that are likely to be present within these scenes. Due to the limited types of rooms available, the real-time experiment was only conducted in computer labs. However, undertaking the experiment in more room types would have added to the results and confirmed our findings. Overall, it can be affirmed that the comprehension of indoor scenes can be obtained with just a few sets of elements represented in the environment.
 
 ## Final Notes
-Read the thesis for more details. 
+Read the thesis (Bachelors Thesis.pdf) for more details. 
 
 ## Steps to run the project: 
 
